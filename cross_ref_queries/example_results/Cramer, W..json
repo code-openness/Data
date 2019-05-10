@@ -1,0 +1,1658 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2019-02-17T03:05:33Z",
+      "timestamp": 1550372733350
+    },
+    "publisher-location": "Cham",
+    "reference-count": 5,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "value": "9783319280998",
+        "type": "print"
+      },
+      {
+        "value": "9783319280998",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "URL": "http://www.springer.com/tdm",
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2017-01-01T00:00:00Z",
+          "timestamp": 1483228800000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      },
+      {
+        "URL": "http://www.springer.com/tdm",
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2017-01-01T00:00:00Z",
+          "timestamp": 1483228800000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-28099-8_413-1",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2017-04-17T08:19:31Z",
+      "timestamp": 1492417171000
+    },
+    "page": "1-2",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Phebe"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Phebe",
+        "family": "Cramer",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "413-1_CR1",
+        "unstructured": "Protecting the self: Defense mechanisms in action. (2006). New York: Guilford Press."
+      },
+      {
+        "key": "413-1_CR2",
+        "unstructured": "Story-telling, narrative and the thematic apperception test. (1996). New York: Guilford Press."
+      },
+      {
+        "key": "413-1_CR3",
+        "unstructured": "The development of defense mechanisms: Theory, research and assessment. (1991). New York: Springer-Verlag."
+      },
+      {
+        "key": "413-1_CR4",
+        "unstructured": "Understanding intellectual development: Three approaches to theory and practice (with P. Ammon & W. Rohwer) (1974). Chicago: Dryden Press."
+      },
+      {
+        "key": "413-1_CR5",
+        "unstructured": "Word Association. (1968). New York: Academic Press."
+      }
+    ],
+    "container-title": [
+      "Encyclopedia of Personality and Individual Differences"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-28099-8_413-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2017-05-04T12:24:46Z",
+      "timestamp": 1493900686000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319280998",
+      "9783319280998"
+    ],
+    "references-count": 5,
+    "URL": "http://dx.doi.org/10.1007/978-3-319-28099-8_413-1",
+    "relation": {
+      "cites": []
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2019-02-17T03:12:05Z",
+      "timestamp": 1550373125772
+    },
+    "publisher-location": "Chicago,",
+    "reference-count": 0,
+    "publisher": "A. C. McClurg and company,",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1896
+        ]
+      ]
+    },
+    "DOI": "10.5962/bhl.title.29490",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2011-11-22T21:29:30Z",
+      "timestamp": 1321997370000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The method of Darwin: a study in scientific method, by Frank Cramer."
+    ],
+    "prefix": "10.5962",
+    "author": [
+      {
+        "given": "Frank.",
+        "family": "Cramer",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "3444",
+    "deposited": {
+      "date-parts": [
+        [
+          2011,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2011-11-22T21:29:40Z",
+      "timestamp": 1321997380000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          1896
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.5962/bhl.title.29490"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T20:57:42Z",
+      "timestamp": 1550523462005
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1093/gmo/9781561592630.article.a2234849",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          13
+        ]
+      ],
+      "date-time": "2017-12-13T11:16:43Z",
+      "timestamp": 1513163803000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Floyd"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Rich",
+        "family": "Kienzle",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "Oxford Music Online"
+    ],
+    "original-title": [
+      "Cramer, Floyd"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          13
+        ]
+      ],
+      "date-time": "2017-12-13T11:16:43Z",
+      "timestamp": 1513163803000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/gmo/9781561592630.article.a2234849"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:38:53Z",
+      "timestamp": 1550525933807
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044097",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T14:50:53Z",
+      "timestamp": 1513435853000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Petrus"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Petrus"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T14:50:54Z",
+      "timestamp": 1513435854000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044097"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:33:08Z",
+      "timestamp": 1550525588864
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044099",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T09:13:42Z",
+      "timestamp": 1513415622000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, R."
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, R."
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T09:13:42Z",
+      "timestamp": 1513415622000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044099"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:42:18Z",
+      "timestamp": 1550526138506
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044096",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T18:22:46Z",
+      "timestamp": 1513448566000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Peter"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Peter"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T18:22:46Z",
+      "timestamp": 1513448566000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044096"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:23:52Z",
+      "timestamp": 1550525032495
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044083",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2017-12-15T22:49:20Z",
+      "timestamp": 1513378160000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Alphons von"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Alphons von"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2017-12-15T22:49:21Z",
+      "timestamp": 1513378161000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044083"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:04:22Z",
+      "timestamp": 1550523862427
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          24
+        ]
+      ]
+    },
+    "DOI": "10.1093/gmo/9781561592630.article.a2084983",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          13
+        ]
+      ],
+      "date-time": "2017-12-13T17:26:32Z",
+      "timestamp": 1513185992000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Ray Ellwyn"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Charles",
+        "family": "Conrad",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "Oxford Music Online"
+    ],
+    "original-title": [
+      "Cramer, Ray Ellwyn"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          13
+        ]
+      ],
+      "date-time": "2017-12-13T17:26:32Z",
+      "timestamp": 1513185992000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          24
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/gmo/9781561592630.article.a2084983"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:00:51Z",
+      "timestamp": 1550523651652
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "DOI": "10.1093/gmo/9781561592630.article.48113",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          13
+        ]
+      ],
+      "date-time": "2017-12-13T14:13:29Z",
+      "timestamp": 1513174409000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Anna"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Helen",
+        "family": "Metzelaar",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "Oxford Music Online"
+    ],
+    "original-title": [
+      "Cramer, Anna"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          13
+        ]
+      ],
+      "date-time": "2017-12-13T14:13:29Z",
+      "timestamp": 1513174409000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/gmo/9781561592630.article.48113"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:40:03Z",
+      "timestamp": 1550526003704
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044093",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T16:02:03Z",
+      "timestamp": 1513440123000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Konrad"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Konrad"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T16:02:03Z",
+      "timestamp": 1513440123000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044093"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T23:53:14Z",
+      "timestamp": 1550533994960
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "DOI": "10.1093/gmo/9781561592630.article.06778",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2018-01-10T18:53:42Z",
+      "timestamp": 1515610422000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, David"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Georg",
+        "family": "Karst\u00e4dt",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "Oxford Music Online"
+    ],
+    "original-title": [
+      "Cramer, David"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          31
+        ]
+      ],
+      "date-time": "2018-01-31T10:43:38Z",
+      "timestamp": 1517395418000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/gmo/9781561592630.article.06778"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:33:58Z",
+      "timestamp": 1550525638133
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044101",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T09:53:15Z",
+      "timestamp": 1513417995000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Tiarko Meyer"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Tiarko Meyer"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T09:53:15Z",
+      "timestamp": 1513417995000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044101"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:21:17Z",
+      "timestamp": 1550524877089
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044088",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2017-12-15T20:32:47Z",
+      "timestamp": 1513369967000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2017-12-15T20:32:47Z",
+      "timestamp": 1513369967000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044088"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:28:48Z",
+      "timestamp": 1550525328731
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044102",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T06:47:50Z",
+      "timestamp": 1513406870000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Willem"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Willem"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T06:47:50Z",
+      "timestamp": 1513406870000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044102"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:31:53Z",
+      "timestamp": 1550525513313
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044091",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T08:19:09Z",
+      "timestamp": 1513412349000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Jacqueline"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Jacqueline"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T08:19:09Z",
+      "timestamp": 1513412349000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044091"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:31:03Z",
+      "timestamp": 1550525463593
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044087",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T07:50:36Z",
+      "timestamp": 1513410636000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Friedrich"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Friedrich"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T07:50:37Z",
+      "timestamp": 1513410637000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044087"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2019-02-19T00:45:51Z",
+      "timestamp": 1550537151492
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044085",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2018-01-17T23:46:04Z",
+      "timestamp": 1516232764000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Elizabeth Skinner"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Elizabeth Skinner"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2018-01-24T20:33:16Z",
+      "timestamp": 1516825996000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044085"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2019-02-19T00:45:51Z",
+      "timestamp": 1550537151497
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044090",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2018-01-17T23:46:09Z",
+      "timestamp": 1516232769000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Hendrik Willem"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Hendrik Willem"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2018-01-24T20:33:19Z",
+      "timestamp": 1516825999000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044090"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2019-02-19T00:45:51Z",
+      "timestamp": 1550537151498
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044089",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2018-01-17T23:46:07Z",
+      "timestamp": 1516232767000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, H\u00e9l\u00e8ne"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, H\u00e9l\u00e8ne"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2018-01-24T20:33:18Z",
+      "timestamp": 1516825998000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044089"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2019-02-19T00:45:51Z",
+      "timestamp": 1550537151498
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00044084",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2018-01-17T23:46:03Z",
+      "timestamp": 1516232763000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cramer, Belle (Mrs)"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Cramer, Belle (Mrs)"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2018-01-24T20:33:15Z",
+      "timestamp": 1516825995000
+    },
+    "score": 13.612593,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00044084"
+  }
+]

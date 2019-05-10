@@ -1,0 +1,2359 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T15:00:00Z",
+      "timestamp": 1550502000547
+    },
+    "publisher-location": "Berlin, Boston",
+    "reference-count": 0,
+    "publisher": "De Gruyter",
+    "isbn-type": [
+      {
+        "value": "9783110296297",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1515/9783110296297-011",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2017-10-10T10:01:30Z",
+      "timestamp": 1507629690000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "10. Transzendenz"
+    ],
+    "prefix": "10.1515",
+    "author": [
+      {
+        "given": "Alexander",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "374",
+    "container-title": [
+      "Handbuch Sprache und Religion"
+    ],
+    "link": [
+      {
+        "URL": "http://www.degruyter.com/view/books/9783110296297/9783110296297-011/9783110296297-011.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.degruyter.com/view/books/9783110296297/9783110296297-011/9783110296297-011.xml",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ],
+      "date-time": "2017-11-14T22:17:38Z",
+      "timestamp": 1510697858000
+    },
+    "score": 17.771906,
+    "editor": [
+      {
+        "given": "Alexander",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wolf-Andreas",
+        "family": "Liebert",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          10
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783110296297"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1515/9783110296297-011"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:38:03Z",
+      "timestamp": 1550525883323
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00104867",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T13:30:35Z",
+      "timestamp": 1513431035000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Lasch, Hermann"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Lasch, Hermann"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T13:30:36Z",
+      "timestamp": 1513431036000
+    },
+    "score": 17.771906,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00104867"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T21:33:23Z",
+      "timestamp": 1550525603572
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1093/benz/9780199773787.article.b00104866",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T09:25:39Z",
+      "timestamp": 1513416339000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Lasch, Carl Johann"
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Benezit Dictionary of Artists"
+    ],
+    "original-title": [
+      "Lasch, Carl Johann"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2017-12-16T09:25:39Z",
+      "timestamp": 1513416339000
+    },
+    "score": 17.771906,
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/benz/9780199773787.article.b00104866"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2019-02-16T17:10:24Z",
+      "timestamp": 1550337024817
+    },
+    "reference-count": 0,
+    "publisher": "JSTOR",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Political Psychology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "DOI": "10.2307/3790974",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          3,
+          22
+        ]
+      ],
+      "date-time": "2007-03-22T01:40:35Z",
+      "timestamp": 1174527635000
+    },
+    "page": "75",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Lasch on Narcissism"
+    ],
+    "prefix": "10.2307",
+    "volume": "2",
+    "author": [
+      {
+        "given": "Stanley",
+        "family": "Rothman",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Christopher",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1121",
+    "container-title": [
+      "Political Psychology"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2018-05-08T22:46:32Z",
+      "timestamp": 1525819592000
+    },
+    "score": 16.966501,
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1980
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "URL": "http://dx.doi.org/10.2307/3790974",
+    "ISSN": [
+      "0162-895X"
+    ],
+    "issn-type": [
+      {
+        "value": "0162-895X",
+        "type": "print"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2019-02-17T12:31:29Z",
+      "timestamp": 1550406689655
+    },
+    "publisher-location": "Berlin, New York",
+    "reference-count": 0,
+    "publisher": "DE GRUYTER",
+    "isbn-type": [
+      {
+        "value": "9783111393124",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1974,
+          1,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1515/9783111393124",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          3,
+          24
+        ]
+      ],
+      "date-time": "2012-03-24T03:58:00Z",
+      "timestamp": 1332561480000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Mittelniederdeutsche Grammatik"
+    ],
+    "prefix": "10.1515",
+    "author": [
+      {
+        "given": "Agathe",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "374",
+    "link": [
+      {
+        "URL": "https://www.degruyter.com/view/books/9783111393124/9783111393124/9783111393124.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2017-05-11T18:17:36Z",
+      "timestamp": 1494526656000
+    },
+    "score": 16.26007,
+    "subtitle": [
+      ""
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1974,
+          1,
+          31
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783111393124"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1515/9783111393124"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2019-02-16T09:07:51Z",
+      "timestamp": 1550308071954
+    },
+    "reference-count": 0,
+    "publisher": "JSTOR",
+    "issue": "6",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "The Hastings Center Report"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1977,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.2307/3560870",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          11,
+          16
+        ]
+      ],
+      "date-time": "2006-11-16T15:50:55Z",
+      "timestamp": 1163692255000
+    },
+    "page": "4",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Author's Back-Lasch"
+    ],
+    "prefix": "10.2307",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Albert",
+        "family": "Rosenfeld",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Christopher",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1121",
+    "container-title": [
+      "The Hastings Center Report"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2018-04-17T21:33:34Z",
+      "timestamp": 1524000814000
+    },
+    "score": 15.859141,
+    "issued": {
+      "date-parts": [
+        [
+          1977,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1977,
+            12
+          ]
+        ]
+      },
+      "issue": "6"
+    },
+    "URL": "http://dx.doi.org/10.2307/3560870",
+    "ISSN": [
+      "0093-0334"
+    ],
+    "issn-type": [
+      {
+        "value": "0093-0334",
+        "type": "print"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T15:00:00Z",
+      "timestamp": 1550502000283
+    },
+    "publisher-location": "Berlin, Boston",
+    "reference-count": 0,
+    "publisher": "De Gruyter",
+    "isbn-type": [
+      {
+        "value": "9783110296297",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1515/9783110296297-001",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2017-10-10T10:01:30Z",
+      "timestamp": 1507629690000
+    },
+    "page": "1-4",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Zur Konzeption des Handbuchs"
+    ],
+    "prefix": "10.1515",
+    "author": [
+      {
+        "given": "Alexander",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wolf-Andreas",
+        "family": "Liebert",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "374",
+    "container-title": [
+      "Handbuch Sprache und Religion"
+    ],
+    "link": [
+      {
+        "URL": "http://www.degruyter.com/view/books/9783110296297/9783110296297-001/9783110296297-001.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.degruyter.com/view/books/9783110296297/9783110296297-001/9783110296297-001.xml",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ],
+      "date-time": "2017-11-14T22:17:34Z",
+      "timestamp": 1510697854000
+    },
+    "score": 15.859141,
+    "editor": [
+      {
+        "given": "Alexander",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wolf-Andreas",
+        "family": "Liebert",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          10
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783110296297"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1515/9783110296297-001"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2019-02-16T15:56:10Z",
+      "timestamp": 1550332570714
+    },
+    "publisher-location": "Berlin, Boston",
+    "reference-count": 0,
+    "publisher": "De Gruyter",
+    "isbn-type": [
+      {
+        "value": "9783110495430",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          24
+        ]
+      ]
+    },
+    "DOI": "10.1515/9783110495430",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2016-11-09T16:08:51Z",
+      "timestamp": 1478707731000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Nonagentive Konstruktionen des Deutschen"
+    ],
+    "prefix": "10.1515",
+    "author": [
+      {
+        "given": "Alexander",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "374",
+    "link": [
+      {
+        "URL": "http://www.degruyter.com/view/books/9783110495430/9783110495430/9783110495430.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.degruyter.com/view/books/9783110495430/9783110495430/9783110495430.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          9
+        ]
+      ],
+      "date-time": "2017-05-09T19:42:58Z",
+      "timestamp": 1494358978000
+    },
+    "score": 15.405234,
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          24
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783110495430"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1515/9783110495430"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          9
+        ]
+      ],
+      "date-time": "2019-05-09T17:43:30Z",
+      "timestamp": 1557423810358
+    },
+    "publisher-location": "Wiesbaden",
+    "reference-count": 0,
+    "publisher": "Deutscher Universit\u00e4tsverlag",
+    "isbn-type": [
+      {
+        "value": "9783824467921",
+        "type": "print"
+      },
+      {
+        "value": "9783322933676",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "URL": "http://www.springer.com/tdm",
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1998-01-01T00:00:00Z",
+          "timestamp": 883612800000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-322-93367-6",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          24
+        ]
+      ],
+      "date-time": "2012-11-24T16:55:18Z",
+      "timestamp": 1353776118000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Marktorientierte Gestaltung von Logistikprozessen"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Rainer",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-322-93367-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-322-93367-6",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          6
+        ]
+      ],
+      "date-time": "2019-04-06T03:56:17Z",
+      "timestamp": 1554522977000
+    },
+    "score": 15.405234,
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783824467921",
+      "9783322933676"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1007/978-3-322-93367-6"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2019-02-17T01:39:30Z",
+      "timestamp": 1550367570234
+    },
+    "publisher-location": "New York, NY",
+    "reference-count": 0,
+    "publisher": "Princeton Archit.Press",
+    "isbn-type": [
+      {
+        "value": "9781568985473",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1007/1-56898-661-0_1",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2007-07-21T14:45:08Z",
+      "timestamp": 1185029108000
+    },
+    "page": "8-9",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Introduction"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Benjamin",
+        "family": "Aranda",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Chris",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Tooling"
+    ],
+    "link": [
+      {
+        "URL": "http://www.springerlink.com/index/pdf/10.1007/1-56898-661-0_1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2014-01-06T17:55:23Z",
+      "timestamp": 1389030923000
+    },
+    "score": 15.405234,
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781568985473"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1007/1-56898-661-0_1"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2019-02-15T08:41:56Z",
+      "timestamp": 1550220116553
+    },
+    "reference-count": 11,
+    "publisher": "Springer Nature",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Arch. f. Dermat."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1895,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1007/bf02111306",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2005-09-13T09:51:46Z",
+      "timestamp": 1126605106000
+    },
+    "page": "114-129",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Hautkrankheiten"
+    ],
+    "prefix": "10.1007",
+    "volume": "30",
+    "author": [
+      {
+        "family": "Kaposi",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "A.",
+        "family": "Gr\u00fcnfeld",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "Winternitz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "Winternitz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "Dreipel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "Sternthal",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "Jadassohn",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "family": "G\u00fcnsburg",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ludwig",
+        "family": "Waelsch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "BF02111306_CR1",
+        "first-page": "639",
+        "volume": "8-12",
+        "author": "G. Sperino",
+        "year": "1893",
+        "unstructured": "Sperino, G. Sulla disposizione del tessuto elastico nel letto ungueale. Giorn. della R. Acad. di Torino. Anno LVI. Nr. 8-12. 1893 p. 639.",
+        "journal-title": "Giorn. della R. Acad. di Torino. Anno LVI"
+      },
+      {
+        "key": "BF02111306_CR2",
+        "first-page": "169",
+        "volume": "6",
+        "author": "N. M. Sokolow",
+        "year": "1894",
+        "unstructured": "Sokolow, N. M. Ueber die Resorption einiger Salze durch die Haut bei Einreibung derselben in Form von Salben. Vorl\u00e4ufige Mittheilung. Wratsch 1894. Nr. 6 p. 169\u2013170. Russisch.",
+        "journal-title": "Vorl\u00e4ufige Mittheilung. Wratsch"
+      },
+      {
+        "issue": "Nr. 3",
+        "key": "BF02111306_CR3",
+        "first-page": "91",
+        "volume": "11",
+        "author": "Harnack",
+        "year": "1893",
+        "unstructured": "Harnack, Erich. Ueber die Zusammensetzung des menschl. Schweisses und den relativen Salzgehalt der K\u00f6rperfl\u00fcssigkeiten. Fortschritte der Medicin. 1893. Bd. 11 Nr. 3 p. 91\u201394.",
+        "journal-title": "Fortschritte der Medicin"
+      },
+      {
+        "key": "BF02111306_CR4",
+        "unstructured": "Quincke, H. Ueber die Perspiration bei Hautkranken. Dermatolog. Zeitschr. Bd. I."
+      },
+      {
+        "key": "BF02111306_CR5",
+        "first-page": "377",
+        "volume": "13",
+        "author": "G. J. Markow",
+        "year": "1894",
+        "unstructured": "Markow, G. J. Zur Frage \u00fcber die Verunreinigung der Haut kranker Menschen durch Mikroben. Wratsch 1894. Nr. 13 p. 377\u2013378. Russ.",
+        "journal-title": "Wratsch"
+      },
+      {
+        "key": "BF02111306_CR6",
+        "unstructured": "Beni-Barde. Ueber die Wasserbehandlung der Hautneurosen. Vortrag in der Acad. de m\u00e9decine. Journ. des mal. cut. et syph. 1893. Nr. 12."
+      },
+      {
+        "key": "BF02111306_CR7",
+        "first-page": "582",
+        "volume": "31",
+        "author": "C. Steinmetz",
+        "year": "1893",
+        "unstructured": "Steinmetz, C. Erfahrungen \u00fcber das Oxychinaseptol (Diaphtherin) als Antisepticum. M\u00fcnch. med. Wochschr. 1893. Nr. 31 p. 582\u2013583.",
+        "journal-title": "M\u00fcnch. med. Wochschr."
+      },
+      {
+        "key": "BF02111306_CR8",
+        "first-page": "706",
+        "volume": "38",
+        "author": "H. Stabel",
+        "year": "1893",
+        "unstructured": "Stabel, H. Ueber die antibakterielle Wirkung und das pharmakolog. Verhalten des Diaphtherins. M\u00fcnchener medic. Wochenschrift. 1893. Nr. 38 p. 706\u2013709.",
+        "journal-title": "M\u00fcnchener medic. Wochenschrift."
+      },
+      {
+        "key": "BF02111306_CR9",
+        "unstructured": "Richardi\u00e8re. Pigmentation cutan\u00e9e dans l'arsenicsime. La France m\u00e9dicale. 1894. 18."
+      },
+      {
+        "key": "BF02111306_CR10",
+        "unstructured": "Wassermann, A. Lymphaemie und Hauterkrankungen. Dermatolog. Zeitschr. Bd. I."
+      },
+      {
+        "key": "BF02111306_CR11",
+        "unstructured": "Rosenthal, O. Ueber Oesypus. Vortrag, gehalten in der Berliner dermatol. Vereinigung am 10. Juli 1894. Dermatolog. Zeitschr. Bd. I."
+      }
+    ],
+    "container-title": [
+      "Archiv f\u00fcr Dermatologie und Syphilis"
+    ],
+    "language": "de",
+    "link": [
+      {
+        "URL": "http://www.springerlink.com/index/pdf/10.1007/BF02111306",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2013-02-09T20:20:24Z",
+      "timestamp": 1360441224000
+    },
+    "score": 14.310159,
+    "issued": {
+      "date-parts": [
+        [
+          1895,
+          12
+        ]
+      ]
+    },
+    "references-count": 11,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1895,
+            12
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "alternative-id": [
+      "BF02111306"
+    ],
+    "URL": "http://dx.doi.org/10.1007/bf02111306",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "0340-3696",
+      "1432-069X"
+    ],
+    "issn-type": [
+      {
+        "value": "0340-3696",
+        "type": "print"
+      },
+      {
+        "value": "1432-069X",
+        "type": "electronic"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2019-02-15T20:32:28Z",
+      "timestamp": 1550262748080
+    },
+    "reference-count": 0,
+    "publisher": "JSTOR",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "History of Education Quarterly"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "DOI": "10.2307/367813",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2006-05-04T13:06:42Z",
+      "timestamp": 1146748002000
+    },
+    "page": "125",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Wise Old Men and the New Women: Christopher Lasch Besieged"
+    ],
+    "prefix": "10.2307",
+    "volume": "19",
+    "author": [
+      {
+        "given": "Berenice M.",
+        "family": "Fisher",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Christopher",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1121",
+    "container-title": [
+      "History of Education Quarterly"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2018-04-18T02:28:52Z",
+      "timestamp": 1524018532000
+    },
+    "score": 14.310159,
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1979
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "URL": "http://dx.doi.org/10.2307/367813",
+    "ISSN": [
+      "0018-2680"
+    ],
+    "issn-type": [
+      {
+        "value": "0018-2680",
+        "type": "print"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2019-02-15T21:32:57Z",
+      "timestamp": 1550266377324
+    },
+    "reference-count": 0,
+    "publisher": "JSTOR",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Modern Language Notes"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1927,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.2307/2914205",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2006-05-08T09:13:12Z",
+      "timestamp": 1147079592000
+    },
+    "page": "203",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Hamburgische Texte und Untersuchungen zur deutschen Philologie."
+    ],
+    "prefix": "10.2307",
+    "volume": "42",
+    "author": [
+      {
+        "given": "Edward H.",
+        "family": "Sehrt",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Conrad",
+        "family": "Borchling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Robert",
+        "family": "Petsch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Agathe",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Agathe",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1121",
+    "container-title": [
+      "Modern Language Notes"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2018-04-18T11:32:16Z",
+      "timestamp": 1524051136000
+    },
+    "score": 14.310159,
+    "issued": {
+      "date-parts": [
+        [
+          1927,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1927,
+            3
+          ]
+        ]
+      },
+      "issue": "3"
+    },
+    "URL": "http://dx.doi.org/10.2307/2914205",
+    "ISSN": [
+      "0149-6611"
+    ],
+    "issn-type": [
+      {
+        "value": "0149-6611",
+        "type": "print"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2019-02-16T19:35:07Z",
+      "timestamp": 1550345707017
+    },
+    "reference-count": 6,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "delay-in-days": 14945,
+        "content-version": "tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Psychol. Schs."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1974,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1002/1520-6807(197410)11:4<403::aid-pits2310110406>3.0.co;2-f",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2007-05-07T11:46:48Z",
+      "timestamp": 1178538408000
+    },
+    "page": "403-407",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A new group administration procedure for the minnesota percepto-diagnostic test"
+    ],
+    "prefix": "10.1002",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Lynn D.",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jean",
+        "family": "Holland",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ronald W.",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "10.1002/1520-6807(197410)11:4<403::AID-PITS2310110406>3.0.CO;2-F-BIB1",
+        "author": "Bender",
+        "year": "1938",
+        "unstructured": "A visual motor gestalt test and its clinical use. American Orthopsychiatric Association Research Monograph. 1938, No. 3."
+      },
+      {
+        "key": "10.1002/1520-6807(197410)11:4<403::AID-PITS2310110406>3.0.CO;2-F-BIB2",
+        "author": "Fuller",
+        "year": "1969",
+        "unstructured": "The Minnesota Percepto-Diagnostic Test. Journal of Clinical Psychology, 1969, (Monogr. Suppl. 3)."
+      },
+      {
+        "key": "10.1002/1520-6807(197410)11:4<403::AID-PITS2310110406>3.0.CO;2-F-BIB3",
+        "author": "Howard",
+        "volume": "8",
+        "first-page": "64",
+        "year": "1970",
+        "journal-title": "Journal of School Psychology",
+        "DOI": "10.1016/0022-4405(70)90059-2",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "10.1002/1520-6807(197410)11:4<403::AID-PITS2310110406>3.0.CO;2-F-BIB4",
+        "author": "Hutt",
+        "year": "1960",
+        "unstructured": "& The clinical use of the Revised Bender-Gestalt Test. New York: Grune and Stratton, 1960.",
+        "volume-title": "The clinical use of the Revised Bender-Gestalt Test"
+      },
+      {
+        "key": "10.1002/1520-6807(197410)11:4<403::AID-PITS2310110406>3.0.CO;2-F-BIB5",
+        "author": "Siegel",
+        "year": "1956",
+        "unstructured": "Nonparametric Statistics. New York: McGraw-Hill, 1956.",
+        "volume-title": "Nonparametric Statistics"
+      },
+      {
+        "key": "10.1002/1520-6807(197410)11:4<403::AID-PITS2310110406>3.0.CO;2-F-BIB6",
+        "author": "Winer",
+        "year": "1962",
+        "unstructured": "Statistical principles in experimental design. New York: McGraw-Hill, 1962.",
+        "volume-title": "Statistical principles in experimental design",
+        "DOI": "10.1037/11774-000",
+        "doi-asserted-by": "crossref"
+      }
+    ],
+    "container-title": [
+      "Psychology in the Schools"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F1520-6807(197410)11:4%3C403::AID-PITS2310110406%3E3.0.CO;2-F",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/1520-6807(197410)11:4%3C403::AID-PITS2310110406%3E3.0.CO;2-F",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2019-01-30T00:36:30Z",
+      "timestamp": 1548808590000
+    },
+    "score": 14.310159,
+    "issued": {
+      "date-parts": [
+        [
+          1974,
+          10
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1974,
+            10
+          ]
+        ]
+      },
+      "issue": "4"
+    },
+    "URL": "http://dx.doi.org/10.1002/1520-6807(197410)11:4<403::aid-pits2310110406>3.0.co;2-f",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "0033-3085",
+      "1520-6807"
+    ],
+    "issn-type": [
+      {
+        "value": "0033-3085",
+        "type": "print"
+      },
+      {
+        "value": "1520-6807",
+        "type": "electronic"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T19:12:06Z",
+      "timestamp": 1550517126437
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1093/anb/9780198606697.article.1401070",
+    "type": "reference-book",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2017-11-29T09:05:23Z",
+      "timestamp": 1511946323000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Lasch, Christopher (01 June 1932\u201314 February 1994), historian and social critic, nicknamed \"Kit\""
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Guy",
+        "family": "Alchon",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "American National Biography Online"
+    ],
+    "original-title": [
+      "Lasch, Christopher (01 June 1932\u201314 February 1994), historian and social critic, nicknamed \"Kit\""
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2017-11-29T09:05:23Z",
+      "timestamp": 1511946323000
+    },
+    "score": 14.310159,
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1093/anb/9780198606697.article.1401070"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2019-02-12T23:06:04Z",
+      "timestamp": 1550012764648
+    },
+    "publisher-location": "Berlin, Boston",
+    "reference-count": 0,
+    "publisher": "DE GRUYTER",
+    "isbn-type": [
+      {
+        "value": "9783110295641",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          30
+        ]
+      ]
+    },
+    "DOI": "10.1515/9783110295641",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2013-02-22T11:57:04Z",
+      "timestamp": 1361534224000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Konstruktionsgrammatik"
+    ],
+    "prefix": "10.1515",
+    "author": [
+      {
+        "given": "Alexander",
+        "family": "Ziem",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Alexander",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "374",
+    "link": [
+      {
+        "URL": "https://www.degruyter.com/view/books/9783110295641/9783110295641/9783110295641.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          17
+        ]
+      ],
+      "date-time": "2017-05-17T16:18:59Z",
+      "timestamp": 1495037939000
+    },
+    "score": 14.045853,
+    "subtitle": [
+      "Konzepte und Grundlagen gebrauchsbasierter Ans\u00e4tze"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          30
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783110295641"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1515/9783110295641"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2019-02-13T02:36:24Z",
+      "timestamp": 1550025384411
+    },
+    "publisher-location": "Heidelberg",
+    "reference-count": 0,
+    "publisher": "Physica-Verlag HD",
+    "isbn-type": [
+      {
+        "value": "9783662124345",
+        "type": "print"
+      },
+      {
+        "value": "9783662124338",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-662-12433-8_21",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2013-04-17T07:19:30Z",
+      "timestamp": 1366183170000
+    },
+    "page": "222-231",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Kundenorientierte Logistikprozesse"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "R.",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Mathematische Methoden der Wirtschaftswissenschaften"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-662-12433-8_21",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2013-04-17T07:19:50Z",
+      "timestamp": 1366183190000
+    },
+    "score": 14.045853,
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783662124345",
+      "9783662124338"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1007/978-3-662-12433-8_21"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2019-02-13T08:43:42Z",
+      "timestamp": 1550047422689
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 0,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "value": "9783642737893",
+        "type": "print"
+      },
+      {
+        "value": "9783642737886",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-642-73788-6_9",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          5
+        ]
+      ],
+      "date-time": "2013-08-05T05:19:30Z",
+      "timestamp": 1375679970000
+    },
+    "page": "600-614",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "H\u00e4morrhagische Diathesen"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "D. L.",
+        "family": "Heene",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "H. G.",
+        "family": "Lasch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Innere Medizin"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-642-73788-6_9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2014-08-20T01:49:01Z",
+      "timestamp": 1408499341000
+    },
+    "score": 14.045853,
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783642737893",
+      "9783642737886"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1007/978-3-642-73788-6_9"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2019-02-13T11:57:46Z",
+      "timestamp": 1550059066132
+    },
+    "publisher-location": "Wiesbaden",
+    "reference-count": 0,
+    "publisher": "Springer Fachmedien Wiesbaden",
+    "isbn-type": [
+      {
+        "value": "9783658032531",
+        "type": "print"
+      },
+      {
+        "value": "9783658032548",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-658-03254-8_1",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2013-10-04T06:27:53Z",
+      "timestamp": 1380868073000
+    },
+    "page": "1-2",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Einf\u00fchrung"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Rainer",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Christian G.",
+        "family": "Janker",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "\u00dcbungsbuch Logistik"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-658-03254-8_1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          9
+        ]
+      ],
+      "date-time": "2014-08-09T03:36:47Z",
+      "timestamp": 1407555407000
+    },
+    "score": 14.045853,
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783658032531",
+      "9783658032548"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1007/978-3-658-03254-8_1"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2019-02-13T11:57:46Z",
+      "timestamp": 1550059066144
+    },
+    "publisher-location": "Wiesbaden",
+    "reference-count": 0,
+    "publisher": "Springer Fachmedien Wiesbaden",
+    "isbn-type": [
+      {
+        "value": "9783658032531",
+        "type": "print"
+      },
+      {
+        "value": "9783658032548",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-658-03254-8_2",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2013-10-04T06:27:53Z",
+      "timestamp": 1380868073000
+    },
+    "page": "3-67",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Beschaffungslogistik"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Rainer",
+        "family": "Lasch",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Christian G.",
+        "family": "Janker",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "\u00dcbungsbuch Logistik"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-658-03254-8_2",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          9
+        ]
+      ],
+      "date-time": "2014-08-09T03:36:46Z",
+      "timestamp": 1407555406000
+    },
+    "score": 14.045853,
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783658032531",
+      "9783658032548"
+    ],
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.1007/978-3-658-03254-8_2"
+  }
+]
