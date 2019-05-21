@@ -25,6 +25,9 @@ print('unescaped')
 #read string as csv file
 df = pd.read_csv(data, encoding="utf8", sep=',')
 
+#remove last column, its empty
+df.drop(df.columns[len(df.columns)-1], axis=1, inplace=True)
+
 #replace all \N with NaN (pandas like it this way)
 df.replace("\\N", np.nan, inplace=True)
 
@@ -33,6 +36,8 @@ def RemoveColon(string):
     return string.replace(':', '')
 
 df['authors'] = df['authors'].astype(str).apply(RemoveColon)
+df['editors'] = df['editors'].astype(str).apply(RemoveColon)
+
 
 """
 as per Email from PIK:
@@ -45,7 +50,9 @@ however, the field x9 does not exist in the data we received
 """
 df.rename(columns={
 'keywords': 'oldDepartmentNames',
-'x1 ( =Feld "Keyword";  u.a. belegt mit Info zu peer-review, wenn kein ISI-Journal)':'keywordsAndPeerReview'
+'x1 ( =Feld "Keyword";  u.a. belegt mit Info zu peer-review, wenn kein ISI-Journal)':'keywordsAndPeerReview',
+'x4 ( = DOI / Identifier)':'DOI',
+'relation (= Serie)': 'Serie'
 }, inplace=True)
 
 
@@ -53,5 +60,5 @@ df.rename(columns={
 print("formatted")
 df.to_csv(outputFile, encoding="utf8")
 
-print("saved")
+print(outputFile, "saved")
 
