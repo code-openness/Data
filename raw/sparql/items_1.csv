@@ -1,0 +1,16 @@
+id,label,id_prop_instance_of
+id_type_book,Book,id_base_work_type
+id_type_newspaper,Newspaper Publication,id_base_work_type
+id_type_article,Article,id_base_work_type
+id_type_pik_series,PIK Series,id_base_work_type
+id_type_report,Report,id_base_work_type
+id_type_habilitation,Habilitation,id_base_work_type
+id_type_diploma,Diploma,id_base_work_type
+id_type_lecture,Lecture,id_base_work_type
+id_type_conference_paper,Conference Paper,id_base_work_type
+id_type_thesis,Thesis,id_base_work_type
+id_type_software,Software Publication,id_base_work_type
+id_type_data,Data Publication,id_base_work_type
+id_type_epub,Electronic Publication,id_base_work_type
+id_type_editied_book,Edited Book,id_base_work_type
+id_type_conference_proceedings,Conference Proceedings,id_base_work_type

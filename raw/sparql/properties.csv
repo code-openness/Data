@@ -1,0 +1,18 @@
+id,label,data_type
+id_prop_instance_of,instance of,multiple_items
+id_prop_author,author,multiple_items
+id_prop_editor,editor,multiple_items
+id_prop_keyword,keyword,multiple_items
+id_prop_publisher,publisher,item
+id_prop_place_of_publication,place of publication,item
+id_prop_publication_type,publication type,item
+id_prop_journal,journal,item
+id_prop_conference,conference,item
+id_prop_series,series,item
+id_prop_publication_date,publication date,string
+id_prop_DOI,DOI,string
+id_prop_issue,issue,string
+id_prop_volume,volume,string
+id_prop_pages,pages,string
+id_prop_title,title,string
+id_prop_reference_URL,reference URL,string
