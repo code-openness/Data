@@ -38,4 +38,5 @@ Contains all of the items that inherit directly from the base classes and types:
 - `items_4.csv` \
 Contains all of the publications in the data set and all of the literal values.\
 Every column (except `id` and `label`) is the id of one of the properties defined in the first `properties.csv` file). \
-Values of the properties that are defined as `item` or `multiple_items` should be mapped before importing to the database.
+Values of the properties that are defined as `item` should be mapped from local ids to wikidata ids before importing to the database. \
+Same goes for `multiple_items`, the items are separated by a semi colon `;`.
