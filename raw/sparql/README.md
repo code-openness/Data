@@ -18,16 +18,16 @@ each property has an id, a label and one of three data types:
   - `item`: accepts a wikidata uri or ID
   - `multiple_items`: accepts multiple wikidata uris or IDS
 
-- `items_0` \
+- `items_0.csv` \
 the first chunk of items, contains all base classes of the data to come
 
-- `items_1` \
+- `items_1.csv` \
 contains the first level of subclasses regarding the publication type
 
-- `items_2` \
+- `items_2.csv` \
 contains the second level of subclasses regarding the publication type
 
-- `items_3` \
+- `items_3.csv` \
 contains all of the items that inherit directly from the base classes and types:
   - `creators`: which are authors and editors
   - `keywords`
@@ -38,7 +38,7 @@ contains all of the items that inherit directly from the base classes and types:
   - `series`
 
 
-- `items_4` \
-contains all of the publications in the data set.\
+- `items_4.csv` \
+contains all of the publications in the data set and all of the literal values.\
 every column (except `id` and `label` is the id of one of the
 properties defined in the first `properties.csv` file)
