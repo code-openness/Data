@@ -12,5 +12,4 @@ id_type_thesis,Thesis,id_base_work_type
 id_type_software,Software Publication,id_base_work_type
 id_type_data,Data Publication,id_base_work_type
 id_type_epub,Electronic Publication,id_base_work_type
-id_type_editied_book,Edited Book,id_base_work_type
 id_type_conference_proceedings,Conference Proceedings,id_base_work_type
