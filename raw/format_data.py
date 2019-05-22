@@ -31,7 +31,7 @@ df.drop(df.columns[len(df.columns)-1], axis=1, inplace=True)
 #replace all \N with NaN (pandas like it this way)
 df.replace("\\N", np.nan, inplace=True)
 
-#some authors names have a : at the end, remove that
+#some authors and editors names have a : at the end, remove that
 def RemoveColon(string):
     return string.replace(':', '')
 
@@ -52,7 +52,7 @@ df.rename(columns={
 'keywords': 'oldDepartmentNames',
 'x1 ( =Feld "Keyword";  u.a. belegt mit Info zu peer-review, wenn kein ISI-Journal)':'keywordsAndPeerReview',
 'x4 ( = DOI / Identifier)':'DOI',
-'relation (= Serie)': 'Serie'
+'relation (= Serie)': 'series'
 }, inplace=True)
 
 
