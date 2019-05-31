@@ -3,4 +3,3 @@ id_type_article_in_book,Article in Book,id_base_work_type;id_type_book;id_type_a
 id_type_isi_article,ISI Article,id_base_work_type;id_type_article
 id_type_other_article,Other Article,id_base_work_type;id_type_article
 id_type_article_in_report,Article in Book,id_base_work_type;id_type_report;id_type_article
-id_type_editied_book,Edited Book,id_base_work_type;id_type_book

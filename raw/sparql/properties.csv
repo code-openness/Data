@@ -1,14 +1,14 @@
 id,label,data_type
-id_prop_instance_of,instance of,multiple_items
-id_prop_author,author,multiple_items
-id_prop_editor,editor,multiple_items
-id_prop_keyword,keyword,multiple_items
-id_prop_publisher,publisher,item
-id_prop_place_of_publication,place of publication,item
-id_prop_publication_type,publication type,item
-id_prop_journal,journal,item
-id_prop_conference,conference,item
-id_prop_series,series,item
+id_prop_instance_of,instance of,wikibase-item
+id_prop_author,author,wikibase-item
+id_prop_editor,editor,wikibase-item
+id_prop_keyword,keyword,wikibase-item
+id_prop_publisher,publisher,wikibase-item
+id_prop_place_of_publication,place of publication,wikibase-item
+id_prop_publication_type,publication type,wikibase-item
+id_prop_journal,journal,wikibase-item
+id_prop_conference,conference,wikibase-item
+id_prop_series,series,wikibase-item
 id_prop_publication_date,publication date,string
 id_prop_DOI,DOI,string
 id_prop_issue,issue,string
