@@ -8,15 +8,15 @@ Python 3.6 or greater is needed, install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
-the original data are in the file pik_input.csv, to apply the cleanup run:
+the original data are in the file `pik_input.csv`, to apply the cleanup run:
 ```bash
 python app.py
 ```
-the cleaned data are in 'pik_output.csv'. You can use the iPython 'experiment_and_view.ipnyb' notebook for viewing the data the basic imports you would need for that are already on the top of the file. It would be helpful to check [this guide on Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+the cleaned data are in `pik_output.csv`. You can use the iPython `experiment_and_view.ipnyb` notebook for viewing the data the basic imports you would need for that are already on the top of the file. It would be helpful to check [this guide on Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
 ## Adding more data-cleaning blocks
 
-You would need to write a function that takes a [pandas.Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) object as input and returns a modified pandas.Dataframe. Include your code in a single file in the folder 'handlers'. The input pandas.Datframe instance must be the output of the first handler: preprocessing/format_data.py. Import the new function thus in the FUNCTIONS list in app.py:
+You would need to write a function that takes a [pandas.Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) object as input and returns a modified pandas.Dataframe. Include your code in a single file in the folder `handlers`. The input pandas.Datframe instance must be the output of the first handler: `preprocessing/format_data.py`. Import the new function thus in the FUNCTIONS list in `app.py`:
 
 ```python
 FUNCTIONS = [
