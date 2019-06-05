@@ -1,6 +1,6 @@
 # PIK Data Cleanup Pipeline
 
-This repositiory puts together the different procedures, that are being implemented to cleanup the PIK publication data.
+This repository puts together the different procedures, that are being implemented to cleanup the PIK publication data.
 
 ## setup and usage
 
