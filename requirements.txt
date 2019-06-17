@@ -5,3 +5,4 @@ pytz==2019.1
 regex==2019.6.2
 six==1.12.0
 pylint
+opencage
