@@ -9,10 +9,14 @@ def place_cleanup(df):
     types = {}
     coordinates = {}
     key = ''  # enter your key; get key: https://opencagedata.com/dashboard
+    if not key:
+        print("No key given, no data will be requested from OpenCageGeocoder")
+        return df
+
     geocoder = OpenCageGeocode(key)
 
     for x, string in places.iteritems():
-        # checkes whether value is nan
+        # checks whether value is nan
         if (not string) or string != string:
             newCoordinates.append(np.nan)
             newTypes.append(np.nan)
