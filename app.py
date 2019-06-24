@@ -14,7 +14,7 @@ FUNCTIONS = [
     doi_cleanup,
     author_editor_cleanup,
     year_cleanup,
-    place_cleanup   #alt enter
+    place_cleanup
 ]
 
-apply_cleanup(pik_df, FUNCTIONS).to_csv('pik_output.csv')
+apply_cleanup(pik_df, FUNCTIONS).to_csv('pik_output.csv', index=False)
