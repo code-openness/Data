@@ -60,14 +60,11 @@ def year_cleanup(df):
     result['year'] = result['year'].apply(clean_short_date)
 
     # replace wrong values
-    result.at['7923', 'year'] = 2018
-    result.at['5588', 'year'] = 2012
-    result.at['8244', 'year'] = 2018
+    result.loc[result.year == '20188', 'year'] = 2018
+    result.loc[result.year == '23012', 'year'] = 2012
+    result.loc[result.year == '2918', 'year'] = 2018
     # replace wrong value of '16'
-    result.at['6874', 'year'] = 2015
-    # drop rows having '9.' as entry in column 'year'
-    result = result.drop(index='7926')
-    result = result.drop(index='7924')
-    result = result.drop(index='7922')
-    result = result.drop(index='7401')
+    result.loc[result.year == '16', 'year'] = 2016
+    # nullifying '9.' as entry in column 'year'
+    result.loc[result.year == '9.', 'year'] = np.NaN
     return result
