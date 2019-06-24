@@ -2,17 +2,13 @@ id,label,data_type
 id_prop_instance_of,instance of,wikibase-item
 id_prop_author,author,wikibase-item
 id_prop_editor,editor,wikibase-item
-id_prop_keyword,keyword,wikibase-item
+id_prop_main_subject,main subject,wikibase-item
 id_prop_publisher,publisher,wikibase-item
 id_prop_place_of_publication,place of publication,wikibase-item
-id_prop_publication_type,publication type,wikibase-item
-id_prop_journal,journal,wikibase-item
-id_prop_conference,conference,wikibase-item
-id_prop_series,series,wikibase-item
+id_prop_published_in,published in,wikibase-item
+id_prop_part_of_the_series,part of the series,wikibase-item
 id_prop_publication_date,publication date,string
 id_prop_DOI,DOI,string
 id_prop_issue,issue,string
 id_prop_volume,volume,string
-id_prop_pages,pages,string
-id_prop_title,title,string
-id_prop_reference_URL,reference URL,string
+id_prop_number_of_pages,number of pages,string

@@ -1,12 +1,25 @@
 id,label
-id_base_work,Work
-id_base_work_type,Work Type
-id_base_creator,Creator
-id_base_author,Author
-id_base_editor,Editor
-id_base_journal,Journal
-id_base_publisher,Publisher
-id_base_place_of_publication,Place of Publication
-id_base_conference,Conference
-id_base_series,Series
-id_base_keyword,Keyword
+id_base_article,article
+id_base_chapter,chapter
+id_base_confpaper,conference paper
+id_base_lecture,lecture
+id_base_report,report
+id_base_epub,electronic publication
+id_base_inreport,research report
+id_base_intseries,technical report
+id_base_book,book
+id_base_newspaper,newspaper article
+id_base_edbook,edited volume
+id_base_data,data publication
+id_base_software,software project
+id_base_dipl,diploma thesis
+id_base_habil,habilitation thesis
+id_base_thesis,doctoral thesis
+id_base_proceedings,proceedings
+id_base_author,author
+id_base_editor,editor
+id_base_journal,academic journal
+id_base_publisher,publisher
+id_base_place_of_publication,place of publication
+id_base_series,series
+id_base_main_subject,main subject
