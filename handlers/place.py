@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from opencage.geocoder import OpenCageGeocode
 
+
 def place_cleanup(df):
     places = df['place']
     newCoordinates = []
@@ -17,7 +18,7 @@ def place_cleanup(df):
 
     for x, string in places.iteritems():
         # checks whether value is nan
-        if (not string) or string != string:
+        if type(string) is not str:
             newCoordinates.append(np.nan)
             newTypes.append(np.nan)
             continue
@@ -37,8 +38,8 @@ def place_cleanup(df):
                     coordinates[query] = (results[0]['geometry']['lat'], results[0]['geometry']['lng'])
 
             if (types[query] == '') and (len(place) == 1):
-                newPlace.append(np.nan)
-                newType.append(np.nan)
+                newPlace.append('')
+                newType.append('')
             if types[query] in ('city', 'county', 'village', 'neighbourhood', 'state_district', 'state'):
                 newPlace.append(', '.join(map(str, (coordinates[query]))))
                 newType.append(', '.join(map(str, (types[query]))))

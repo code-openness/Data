@@ -6,11 +6,12 @@ from preprocessing.read_file import read_file
 from handlers.doi import doi_cleanup
 from utils.apply_cleanup import apply_cleanup
 
-pik_df = read_file('pik_input.csv')
+# pik_df = read_file('pik_input.csv')
+pik_df = read_file('pik_refined.csv')
 
 # import functions, and add them to the list FUNCTIONS
 FUNCTIONS = [
-    format_data,  # this function must always run first
+    # format_data,  # the data was formatted, then manually cleaned with OpenRefine
     doi_cleanup,
     author_editor_cleanup,
     year_cleanup,
