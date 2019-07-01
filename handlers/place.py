@@ -9,7 +9,7 @@ def place_cleanup(df):
     newTypes = []
     types = {}
     coordinates = {}
-    key = ''  # enter your key; get key: https://opencagedata.com/dashboard
+    key = '5421ee56399c49aa9336b0b42d5ff62c'  # enter your key; get key: https://opencagedata.com/dashboard
     if not key:
         print("No key given, no data will be requested from OpenCageGeocoder")
         return df
@@ -18,7 +18,7 @@ def place_cleanup(df):
 
     for x, string in places.iteritems():
         # checks whether value is nan
-        if type(string) is not str:
+        if (not string) or string != string:
             newCoordinates.append(np.nan)
             newTypes.append(np.nan)
             continue
@@ -26,10 +26,11 @@ def place_cleanup(df):
         place = places[x].replace('.', '').split(', ')
         newPlace = []
         newType = []
-        for i, p in enumerate(place):
+        for i, p in enumerate(place[:10]):
             query = place[i]
             if query not in types:
                 results = geocoder.geocode(query, pretty='1', no_annotation='1')
+                print(results)
                 if results == []:
                     types[query] = ''
                     coordinates[query] = ''
@@ -38,11 +39,11 @@ def place_cleanup(df):
                     coordinates[query] = (results[0]['geometry']['lat'], results[0]['geometry']['lng'])
 
             if (types[query] == '') and (len(place) == 1):
-                newPlace.append('')
-                newType.append('')
-            if types[query] in ('city', 'county', 'village', 'neighbourhood', 'state_district', 'state'):
+                newTypes.append(np.nan)
+                newCoordinates.append(np.nan)
+            if types[query] in ('city', 'county', 'village', 'neighbourhood', 'state_district', 'state'):  # or... state_district
                 newPlace.append(', '.join(map(str, (coordinates[query]))))
-                newType.append(', '.join(map(str, (types[query]))))
+                newType.append(types[query])
 
         newTypes.append('; '.join(newType))
         newCoordinates.append('; '.join(newPlace))
